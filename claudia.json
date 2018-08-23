@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "berkeylambdabot-executor",
+    "name": "berkeylambdabot",
+    "region": "us-west-2"
+  }
+}
