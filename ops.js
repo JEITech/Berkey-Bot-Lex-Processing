@@ -26,17 +26,11 @@ module.exports = {
 
                 var orderItems = [];
 
-
-
-
                     for(var i=0; i<order.items[0].items.length; i++){
 
                       orderItems.push(order.items[0].items[i].name);
 
                     }
-
-
-
 
                  var cbData = {
 
